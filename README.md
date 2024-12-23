@@ -9,4 +9,3 @@ Manipulasi data yang ada antara lain:
 2. Menghitung suhu rata-rata dari data cuaca kota yang ada.
 3. Mengambil data yang dibutuhkan seperti nama kota, deskripsi cuaca, dan suhu dari weatherData dan ditampilkan dalam antarmuka aplikasi flutter.
 ![alt text](image.png)
-<video controls src="20241223-1732-47.4028779.mp4" title="Title"></video>
